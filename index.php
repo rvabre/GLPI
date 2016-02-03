@@ -7,11 +7,11 @@
 }
 
 $env_var = getenv('OPENSHIFT_APP_NAME');
-echo $env_var;
+echo $env_var; echo "A";
 $env_var = getenv('OPENSHIFT_HOMEDIR');
-echo $env_var;
+echo $env_var; echo "B";
 $env_var = getenv('OPENSHIFT_MYSQL_DB_URL');
-echo $env_var;
+echo $env_var; echo "C";
 
 
     
