@@ -8,7 +8,7 @@
       }else if (i%2==0){
          echo "B";
       }else{
-         echo "A"
+         echo "A";
       }
 }
 
