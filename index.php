@@ -4,13 +4,13 @@
     echo 'A';
 }
 echo "</br>";
-echo " $$$$$$\  $$\    $$$$$$$$\ $$$$$$$\   $$$$$$\  $$\   $$\ </br>";
-echo "$$  __$$\ $$ |   \__$$  __|$$  __$$\ $$  __$$\ $$$\  $$ |</br>";
-echo "$$ /  $$ |$$ |      $$ |   $$ |  $$ |$$ /  $$ |$$$$\ $$ |</br>";
-echo "$$$$$$$$ |$$ |      $$ |   $$$$$$$  |$$$$$$$$ |$$ $$\$$ |</br>";
-echo "$$  __$$ |$$ |      $$ |   $$  __$$< $$  __$$ |$$ \$$$$ |</br>";
-echo "$$ |  $$ |$$ |      $$ |   $$ |  $$ |$$ |  $$ |$$ |\$$$ |</br>";
-echo "$$ |  $$ |$$$$$$$$\ $$ |   $$ |  $$ |$$ |  $$ |$$ | \$$ |</br>";
-echo "\__|  \__|\________|\__|   \__|  \__|\__|  \__|\__|  \__|</br>";
+echo"&nbsp;$$$$$$\&nbsp;&nbsp;$$\&nbsp;&nbsp;&nbsp;&nbsp;$$$$$$$$\&nbsp;$$$$$$$\&nbsp;&nbsp;&nbsp;$$$$$$\&nbsp;&nbsp;$$\&nbsp;&nbsp;&nbsp;$$\&nbsp;</br>";
+echo"$$&nbsp;&nbsp;__$$\&nbsp;$$&nbsp;|&nbsp;&nbsp;&nbsp;\__$$&nbsp;&nbsp;__|$$&nbsp;&nbsp;__$$\&nbsp;$$&nbsp;&nbsp;__$$\&nbsp;$$$\&nbsp;&nbsp;$$&nbsp;|</br>";
+echo"$$&nbsp;/&nbsp;&nbsp;$$&nbsp;|$$&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$&nbsp;|&nbsp;&nbsp;&nbsp;$$&nbsp;|&nbsp;&nbsp;$$&nbsp;|$$&nbsp;/&nbsp;&nbsp;$$&nbsp;|$$$$\&nbsp;$$&nbsp;|</br>";
+echo"$$$$$$$$&nbsp;|$$&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$&nbsp;|&nbsp;&nbsp;&nbsp;$$$$$$$&nbsp;&nbsp;|$$$$$$$$&nbsp;|$$&nbsp;$$\$$&nbsp;|</br>";
+echo"$$&nbsp;&nbsp;__$$&nbsp;|$$&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$&nbsp;|&nbsp;&nbsp;&nbsp;$$&nbsp;&nbsp;__$$<&nbsp;$$&nbsp;&nbsp;__$$&nbsp;|$$&nbsp;\$$$$&nbsp;|</br>";
+echo"$$&nbsp;|&nbsp;&nbsp;$$&nbsp;|$$&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$&nbsp;|&nbsp;&nbsp;&nbsp;$$&nbsp;|&nbsp;&nbsp;$$&nbsp;|$$&nbsp;|&nbsp;&nbsp;$$&nbsp;|$$&nbsp;|\$$$&nbsp;|</br>";
+echo"$$&nbsp;|&nbsp;&nbsp;$$&nbsp;|$$$$$$$$\&nbsp;$$&nbsp;|&nbsp;&nbsp;&nbsp;$$&nbsp;|&nbsp;&nbsp;$$&nbsp;|$$&nbsp;|&nbsp;&nbsp;$$&nbsp;|$$&nbsp;|&nbsp;\$$&nbsp;|</br>";
+echo"\__|&nbsp;&nbsp;\__|\________|\__|&nbsp;&nbsp;&nbsp;\__|&nbsp;&nbsp;\__|\__|&nbsp;&nbsp;\__|\__|&nbsp;&nbsp;\__|</br>";
 
 ?>
