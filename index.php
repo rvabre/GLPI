@@ -8,24 +8,13 @@
 
 }
 
-define('DB_USER', getenv('MYSQL_USER'));
-define('DB_PASS', getenv('MYSQL_PASSWORD'));
-define('DB_NAME', getenv('MYSQL_DATABASE'));
+$env_var = getenv('OPENSHIFT_APP_NAME');
+echo $env_var;
+$env_var = getenv('OPENSHIFT_HOMEDIR');
+echo $env_var;
+$env_var = getenv('OPENSHIFT_MYSQL_DB_URL');
+echo $env_var;
 
 
-$dbusername = constant("DB_USER"); // Mysql username 
-$dbpassword = constant("DB_PASS"); // Mysql password 
-$db_name = constant("DB_NAME");
-
-echo "$dbusername";
-echo $dbpassword;
-echo $db_name;
-
-echo $_ENV['OPENSHIFT_MYSQL_DB_HOST'];
-echo $_ENV['OPENSHIFT_MYSQL_DB_USERNAME'];
-echo $_ENV['OPENSHIFT_MYSQL_DB_PASSWORD'];
-echo $_ENV['OPENSHIFT_APP_NAME']; // By default, app name == db name
-echo $_ENV['OPENSHIFT_MYSQL_DB_PORT'];
-echo $_ENV['OPENSHIFT_MYSQL_DB_SOCKET'];
     
 ?>
