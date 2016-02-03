@@ -4,7 +4,7 @@
    for ($i=0; $i<100; $i++) {
    echo "Altran";
    echo "</br>";
-   echo "$MYSQL_DATABASE";
+   echo "$MYSQL_DATABASE";echo "------------";
    echo "$_MYSQL_DATABASE";
 }
 
