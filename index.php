@@ -4,8 +4,6 @@
    for ($i=0; $i<3; $i++) {
    echo "Altran";
    echo "</br>";
-
-
 }
 
 $env_var = getenv('OPENSHIFT_APP_NAME');
